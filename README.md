@@ -34,6 +34,10 @@ Below is a basic example for reference:
 - Scalable features
 - Resource use
 
+## How to submit
+To submit, upload all of your files to a new GitHub repository, and share the link to the repository on the given Google Form:
+[https://forms.gle/FWAj1NgE3XkyX8H16](https://forms.gle/FWAj1NgE3XkyX8H16)
+
 ### For freshmen, the following resources are recommended for assistance:
 These videos can be a good starting point to learn Flutter, but they are not the only available ones. You can use any other resources, and LLMs to learn. We also do not expect you to see the entire videos, just skim through any of them and learn what you feel is important.
 
