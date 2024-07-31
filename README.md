@@ -49,6 +49,7 @@ These videos can be a good starting point to learn Flutter, but they are not the
 We look forward to seeing your innovative solutions.
 
 Best regards,
+
 GDSC AppDev Team
 
 
