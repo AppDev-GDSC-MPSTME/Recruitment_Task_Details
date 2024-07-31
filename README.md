@@ -39,7 +39,7 @@ These videos can be a good starting point to learn Flutter, but they are not the
 
 [Flutter Tutorial in Hindi](https://www.youtube.com/watch?v=jYoALeP3eH8)
 
-[Dart and Flutter Tutorial in English](https://www.youtube.com/watch?v=CzRQ9mnmh44)
+[Flutter Tutorial in English](https://www.youtube.com/watch?v=CD1Y2DmL5JM)
 
 
 We look forward to seeing your innovative solutions.
