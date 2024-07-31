@@ -6,11 +6,11 @@ This is the official GDSC AppDev task for 2024
 
 the task is pretty strightforward, you are supposed to make a functional DATE CALCULATOR:
 
-# this app is supposed to take an input of
+this app is supposed to take an input of
 1. DAY-OF-THE-YEAR
 2. YEAR itself
 
-# output should be 
+output should be 
 1. DATE in dd/MM/yyyy 
 2. WEEK-OF-THE-YEAR
 3. bool value of it is a LEAP-YEAR or not
