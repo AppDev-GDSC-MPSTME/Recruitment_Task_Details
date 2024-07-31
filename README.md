@@ -9,8 +9,8 @@ The task is to develop a functional Date Calculator application. The application
 
 ## Take input for:
 
-Day of the Year
-Year
+- Day of the Year
+- Year
 
 ## Provide output for:
 
