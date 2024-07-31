@@ -18,7 +18,7 @@ The task is to develop a functional Date Calculator application. The application
 2. Week of the Year
 3. Boolean value indicating if it is a Leap Year or not
 
-Example
+## Example
 Below is a basic example for reference:
 
 ![img](https://github.com/user-attachments/assets/62fee4c2-e29a-47aa-904d-c85009040caf)
