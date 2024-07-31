@@ -32,7 +32,7 @@ Below is a basic example for reference:
 
 - Enhanced UI/UX
 - Scalable features
-- Resources
+- Resource use
 
 ### For freshmen, the following resources are recommended for assistance:
 
