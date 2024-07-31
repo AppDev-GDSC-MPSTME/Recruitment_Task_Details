@@ -14,9 +14,10 @@ The task is to develop a functional Date Calculator application. The application
 
 ## Provide output for:
 
-Date in dd/MM/yyyy format
-Week of the Year
-Boolean value indicating if it is a Leap Year or not
+1 Date in dd/MM/yyyy format
+2 Week of the Year
+3 Boolean value indicating if it is a Leap Year or not
+
 Example
 Below is a basic example for reference:
 
