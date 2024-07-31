@@ -51,6 +51,6 @@ We look forward to seeing your innovative solutions.
 
 Best regards,
 
-GDSC AppDev Team
+*GDSC AppDev Team*
 
 
