@@ -35,8 +35,11 @@ Below is a basic example for reference:
 - Resource use
 
 ### For freshmen, the following resources are recommended for assistance:
+These videos can be a good starting point to learn Flutter, but they are not the only available ones. You can use any other resources, and LLMs to learn. We also do not expect you to see the entire videos, just skim through any of them and learn what you feel is important.
 
-<!-- Add resources here -->
+[Flutter Tutorial in Hindi](https://www.youtube.com/watch?v=jYoALeP3eH8)
+
+[Dart and Flutter Tutorial in English](https://www.youtube.com/watch?v=CzRQ9mnmh44)
 
 
 We look forward to seeing your innovative solutions.
