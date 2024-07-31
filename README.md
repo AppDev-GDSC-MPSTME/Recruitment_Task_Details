@@ -9,25 +9,27 @@ The task is to develop a functional Date Calculator application. The application
 
 ## Take input for:
 
-- Day of the Year
-- Year
+1. Day of the Year
+2. Year
 
 ## Provide output for:
 
-1 Date in dd/MM/yyyy format
-2 Week of the Year
-3 Boolean value indicating if it is a Leap Year or not
+1. Date in dd/MM/yyyy format
+2. Week of the Year
+3. Boolean value indicating if it is a Leap Year or not
 
 Example
 Below is a basic example for reference:
 
+![img](https://github.com/user-attachments/assets/62fee4c2-e29a-47aa-904d-c85009040caf)
 
 
-### Please note that this is not the recommended look. Creativity is encouraged, and additional points will be awarded for features such as:
+### Please note that this is not the recommended look.
+### Creativity is encouraged, and additional points will be awarded for features such as:
 
-Enhanced UI/UX
-Scalable features
-Resources
+- Enhanced UI/UX
+- Scalable features
+- Resources
 
 ### For freshmen, the following resources are recommended for assistance:
 
