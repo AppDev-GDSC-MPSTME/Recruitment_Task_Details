@@ -5,7 +5,7 @@ Hello 👋
 This is the official GDSC AppDev task for 2024.
 
 Task Overview
-The task is to develop a functional **Date Calculator** application. The application should be able to:
+The task is to develop a functional **_Date Calculator_** application. The application should be able to:
 
 
 ## Take input for:
